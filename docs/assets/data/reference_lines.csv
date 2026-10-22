@@ -1,0 +1,4 @@
+chart,label,value
+median-range,외부 기준 5,5
+median-range,10,10
+pooled-p90,프레임 예산 8.33 ms (120 Hz),8.33

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "verification-guide",
+  "description": "검증 가이드 — 네 질문(오류·성능·보안·유지보수)으로 검증을 계획·실행·해석·보고하는 플러그인.",
+  "owner": {
+    "name": "JunyoungJung",
+    "url": "https://github.com/Jimmy-Jung"
+  },
+  "plugins": [
+    {
+      "name": "verification-guide",
+      "source": "./",
+      "description": "검증 계획·실행·해석·보고 가이드. 공용 입력 코퍼스, 차등 테스트, 퍼즈, 실기기 측정, 위협 모델, CI 게이트, 결함 대장, 보고서 파이프라인.",
+      "category": "development"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "verification-guide",
+  "displayName": "검증 가이드",
+  "version": "0.1.0",
+  "description": "오류·성능·보안·유지보수 네 질문으로 소프트웨어 검증을 계획·실행·해석·보고한다. 공용 입력 코퍼스, 차등 테스트, 시드 고정 퍼즈, 실기기 반복 측정, 위협 모델, CI 게이트, 결함 대장, 보고서 수치 파이프라인과 iOS·Android 도구 해석 지침을 담는다.",
+  "author": {
+    "name": "JunyoungJung",
+    "email": "joony300@gmail.com",
+    "url": "https://github.com/Jimmy-Jung"
+  },
+  "homepage": "https://github.com/Jimmy-Jung/verification-guide",
+  "repository": "https://github.com/Jimmy-Jung/verification-guide",
+  "license": "MIT",
+  "keywords": [
+    "verification",
+    "testing",
+    "fuzzing",
+    "differential-testing",
+    "performance",
+    "security",
+    "ios",
+    "android",
+    "report",
+    "claude-code",
+    "codex"
+  ],
+  "skills": "./skills/"
+}

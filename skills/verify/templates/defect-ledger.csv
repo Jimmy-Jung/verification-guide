@@ -1,0 +1,5 @@
+id,title,found_by,impact,fix,regression,status
+F-01,중첩 목록 65단계에서 SIGBUS 종료,극단 입력,크래시,들여쓰기 48열 상한 (커밋 abc1234),fixtures/regressions/nested-list-65.md,수정
+P-03,위치 보정 추가 후 50 KiB 파싱 11.8→16.9 ms,실기기 재측정,지연,트리 순회 4회→1회 (커밋 def5678),StreamingBaselineTests.parse50KiB,수정
+T-06,공유 CI 러너 지연으로 퍼징 입력당 상한 초과,CI 첫 실행,없음,상한 초과 시 3회 재측정 최솟값 판정,FuzzTests.timeBudgetRetry,수정
+D-05,목록 안 표 인식이 상위 파서마다 다름,퍼징 플랫폼 간 비교,구조 차이(글자 보존),기록만 — 명세 해석 차이,,기록

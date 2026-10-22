@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="491" viewBox="0 0 1220 491" role="img" aria-label="vg-09-fixed-window"><rect width="100%" height="100%" fill="#ffffff"/>
+<title>vg-09-fixed-window</title><g transform="translate(0.00,-10.00)">
+<path d="M40.00 100.00 L260.00 100.00 L260.00 148.00 L40.00 148.00" stroke="none" fill="#ffffff" />
+<path d="M40.00 100.00 C127.22 100.00,214.45 100.00,260.00 100.00 M40.00 100.00 C113.66 100.00,187.33 100.00,260.00 100.00 M260.00 100.00 C260.00 112.60,260.00 125.20,260.00 148.00 M260.00 100.00 C260.00 113.07,260.00 126.13,260.00 148.00 M260.00 148.00 C172.69 148.00,85.38 148.00,40.00 148.00 M260.00 148.00 C206.70 148.00,153.39 148.00,40.00 148.00 M40.00 148.00 C40.00 131.63,40.00 115.27,40.00 100.00 M40.00 148.00 C40.00 129.85,40.00 111.70,40.00 100.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="150.00" y="129.25" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="150.00" dy="0">고정 측정 구간</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M260.00 124.00 C624.76 124.00,989.53 124.00,1180.00 124.00 M260.00 124.00 C607.33 124.00,954.66 124.00,1180.00 124.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M1167.01 131.50 L1180.00 124.00 L1167.01 116.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M40.00 200.00 L260.00 200.00 L260.00 248.00 L40.00 248.00" stroke="none" fill="#ffffff" />
+<path d="M40.00 200.00 C127.23 200.00,214.45 200.00,260.00 200.00 M40.00 200.00 C127.76 200.00,215.51 200.00,260.00 200.00 M260.00 200.00 C260.00 215.12,260.00 230.25,260.00 248.00 M260.00 200.00 C260.00 213.32,260.00 226.63,260.00 248.00 M260.00 248.00 C206.34 248.00,152.69 248.00,40.00 248.00 M260.00 248.00 C178.59 248.00,97.19 248.00,40.00 248.00 M40.00 248.00 C40.00 238.33,40.00 228.67,40.00 200.00 M40.00 248.00 C40.00 235.07,40.00 222.13,40.00 200.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="150.00" y="229.25" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="150.00" dy="0">실제 작업</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M260.00 224.00 C624.78 224.00,989.55 224.00,1180.00 224.00 M260.00 224.00 C482.26 224.00,704.53 224.00,1180.00 224.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M1167.01 231.50 L1180.00 224.00 L1167.01 216.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M40.00 300.00 L260.00 300.00 L260.00 348.00 L40.00 348.00" stroke="none" fill="#ffffff" />
+<path d="M40.00 300.00 C127.23 300.00,214.46 300.00,260.00 300.00 M40.00 300.00 C97.85 300.00,155.69 300.00,260.00 300.00 M260.00 300.00 C260.00 317.64,260.00 335.29,260.00 348.00 M260.00 300.00 C260.00 313.56,260.00 327.13,260.00 348.00 M260.00 348.00 C196.00 348.00,132.00 348.00,40.00 348.00 M260.00 348.00 C194.49 348.00,128.98 348.00,40.00 348.00 M40.00 348.00 C40.00 335.43,40.00 322.87,40.00 300.00 M40.00 348.00 C40.00 330.68,40.00 313.37,40.00 300.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="150.00" y="329.25" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="150.00" dy="0">구간 표시로 잡은 구간</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M260.00 324.00 C624.79 324.00,989.58 324.00,1180.00 324.00 M260.00 324.00 C541.19 324.00,822.39 324.00,1180.00 324.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M1167.01 331.50 L1180.00 324.00 L1167.01 316.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="908.00" y="64.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#355579" text-anchor="middle"><tspan x="908.00" dy="0">7.6 s 작업 끝</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M908.00 74.00 C908.00 82.72,908.00 91.45,908.00 96.00 M908.00 74.00 C908.00 81.66,908.00 89.33,908.00 96.00" stroke="#355579" stroke-width="1.7999999999999998" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M900.50 83.01 L908.00 96.00 L915.50 83.01 Z" stroke="#355579" stroke-width="1.7999999999999998" fill="#355579" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M908.00 96.00 C908.00 196.72,908.00 297.43,908.00 350.00 M908.00 96.00 C908.00 189.90,908.00 283.81,908.00 350.00" stroke="#355579" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 8" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M300.00 100.00 L1100.00 100.00 L1100.00 148.00 L300.00 148.00" stroke="none" fill="#ffffff" />
+<path d="M300.00 100.00 C617.22 100.00,934.45 100.00,1100.00 100.00 M300.00 100.00 C612.84 100.00,925.69 100.00,1100.00 100.00 M1100.00 100.00 C1100.00 113.08,1100.00 126.17,1100.00 148.00 M1100.00 100.00 C1100.00 114.06,1100.00 128.13,1100.00 148.00 M1100.00 148.00 C792.05 148.00,484.10 148.00,300.00 148.00 M1100.00 148.00 C817.41 148.00,534.82 148.00,300.00 148.00 M300.00 148.00 C300.00 129.63,300.00 111.26,300.00 100.00 M300.00 148.00 C300.00 131.52,300.00 115.04,300.00 100.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="700.00" y="129.25" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="700.00" dy="0">탭 + 10초</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M324.00 200.00 L908.00 200.00 L908.00 248.00 L324.00 248.00" stroke="none" fill="#e6ecf3" />
+<path d="M324.00 200.00 C555.58 200.00,787.16 200.00,908.00 200.00 M324.00 200.00 C460.51 200.00,597.03 200.00,908.00 200.00 M908.00 200.00 C908.00 214.76,908.00 229.53,908.00 248.00 M908.00 200.00 C908.00 211.03,908.00 222.06,908.00 248.00 M908.00 248.00 C781.69 248.00,655.38 248.00,324.00 248.00 M908.00 248.00 C729.84 248.00,551.69 248.00,324.00 248.00 M324.00 248.00 C324.00 230.90,324.00 213.80,324.00 200.00 M324.00 248.00 C324.00 235.00,324.00 222.00,324.00 200.00" stroke="#355579" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="616.00" y="229.25" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="616.00" dy="0">스트림</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M908.00 200.00 L1100.00 200.00 L1100.00 248.00 L908.00 248.00" stroke="none" fill="#efefef" />
+<path d="M908.00 200.00 C984.14 200.00,1060.27 200.00,1100.00 200.00 M908.00 200.00 C961.08 200.00,1014.16 200.00,1100.00 200.00 M1100.00 200.00 C1100.00 216.44,1100.00 232.89,1100.00 248.00 M1100.00 200.00 C1100.00 217.59,1100.00 235.19,1100.00 248.00 M1100.00 248.00 C1052.46 248.00,1004.91 248.00,908.00 248.00 M1100.00 248.00 C1050.68 248.00,1001.36 248.00,908.00 248.00 M908.00 248.00 C908.00 232.16,908.00 216.33,908.00 200.00 M908.00 248.00 C908.00 228.88,908.00 209.75,908.00 200.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="1004.00" y="228.88" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#1b1b1b" text-anchor="middle"><tspan x="1004.00" dy="0">유휴 — 분모만 늘림</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M300.00 300.00 L932.00 300.00 L932.00 348.00 L300.00 348.00" stroke="none" fill="#ffffff" />
+<path d="M300.00 300.00 C550.62 300.00,801.25 300.00,932.00 300.00 M300.00 300.00 C501.71 300.00,703.42 300.00,932.00 300.00 M932.00 300.00 C932.00 318.12,932.00 336.25,932.00 348.00 M932.00 300.00 C932.00 314.56,932.00 329.12,932.00 348.00 M932.00 348.00 C755.69 348.00,579.38 348.00,300.00 348.00 M932.00 348.00 C800.09 348.00,668.19 348.00,300.00 348.00 M300.00 348.00 C300.00 333.43,300.00 318.86,300.00 300.00 M300.00 348.00 C300.00 332.35,300.00 316.71,300.00 300.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="616.00" y="329.25" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="616.00" dy="0">signpost 시작~끝 ±여유</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M300.00 390.00 C617.25 390.00,934.50 390.00,1100.00 390.00 M300.00 390.00 C589.50 390.00,878.99 390.00,1100.00 390.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M300.00 390.00 C300.00 392.38,300.00 394.76,300.00 396.00 M300.00 390.00 C300.00 392.30,300.00 394.60,300.00 396.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="300.00" y="415.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="300.00" dy="0">0 s</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M500.00 390.00 C500.00 392.38,500.00 394.76,500.00 396.00 M500.00 390.00 C500.00 391.36,500.00 392.71,500.00 396.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="500.00" y="415.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="500.00" dy="0">2.5</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M700.00 390.00 C700.00 392.38,700.00 394.76,700.00 396.00 M700.00 390.00 C700.00 391.61,700.00 393.22,700.00 396.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="700.00" y="415.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="700.00" dy="0">5</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M900.00 390.00 C900.00 392.38,900.00 394.76,900.00 396.00 M900.00 390.00 C900.00 391.87,900.00 393.74,900.00 396.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="900.00" y="415.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="900.00" dy="0">7.5</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<path d="M1100.00 390.00 C1100.00 392.38,1100.00 394.76,1100.00 396.00 M1100.00 390.00 C1100.00 392.12,1100.00 394.25,1100.00 396.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="1100.00" y="415.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="1100.00" dy="0">10 s</tspan></text>
+</g>
+<g transform="translate(0.00,-10.00)">
+<text x="40.00" y="457.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="start"><tspan x="40.00" dy="0">끊김 시간 비율 = 늦게 표시된 시간의 합 ÷ 측정 구간 길이 — 구간이 실제 작업보다 길면 비율이 희석된다</tspan></text>
+</g>
+</svg>

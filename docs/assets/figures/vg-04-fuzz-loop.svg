@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1225" height="495" viewBox="0 0 1225 495" role="img" aria-label="vg-04-fuzz-loop"><rect width="100%" height="100%" fill="#ffffff"/>
+<title>vg-04-fuzz-loop</title><g transform="translate(0.00,12.00)">
+<path d="M40.00 120.00 L160.00 120.00 L160.00 180.00 L40.00 180.00" stroke="none" fill="#ffffff" />
+<path d="M40.00 120.00 C87.58 120.00,135.15 120.00,160.00 120.00 M40.00 120.00 C80.18 120.00,120.36 120.00,160.00 120.00 M160.00 120.00 C160.00 135.75,160.00 151.51,160.00 180.00 M160.00 120.00 C160.00 136.33,160.00 152.67,160.00 180.00 M160.00 180.00 C112.38 180.00,64.75 180.00,40.00 180.00 M160.00 180.00 C130.93 180.00,101.85 180.00,40.00 180.00 M40.00 180.00 C40.00 159.54,40.00 139.09,40.00 120.00 M40.00 180.00 C40.00 157.31,40.00 134.62,40.00 120.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="100.00" y="155.63" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="15" fill="#1b1b1b" text-anchor="middle"><tspan x="100.00" dy="0">시드</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M210.00 120.00 L390.00 120.00 L390.00 180.00 L210.00 180.00" stroke="none" fill="#ffffff" />
+<path d="M210.00 120.00 C281.37 120.00,352.73 120.00,390.00 120.00 M210.00 120.00 C277.96 120.00,345.91 120.00,390.00 120.00 M390.00 120.00 C390.00 137.85,390.00 155.71,390.00 180.00 M390.00 120.00 C390.00 132.54,390.00 145.08,390.00 180.00 M390.00 180.00 C348.92 180.00,307.84 180.00,210.00 180.00 M390.00 180.00 C319.06 180.00,248.12 180.00,210.00 180.00 M210.00 180.00 C210.00 161.13,210.00 142.25,210.00 120.00 M210.00 180.00 C210.00 161.66,210.00 143.32,210.00 120.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="300.00" y="155.63" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="15" fill="#1b1b1b" text-anchor="middle"><tspan x="300.00" dy="0">생성기</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="300.00" y="203.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="300.00" dy="0">입력 모음에서 고르고</tspan><tspan x="300.00" dy="16.25">1~8회 변형</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M160.00 150.00 C179.82 150.00,199.65 150.00,210.00 150.00 M160.00 150.00 C172.08 150.00,184.16 150.00,210.00 150.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M197.01 157.50 L210.00 150.00 L197.01 142.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M555.00 85.00 L670.00 150.00 L555.00 215.00 L440.00 150.00" stroke="none" fill="#e6ecf3" />
+<path d="M555.00 85.00 C600.60 110.77,646.20 136.55,670.00 150.00 M555.00 85.00 C585.24 102.09,615.48 119.18,670.00 150.00 M670.00 150.00 C627.73 173.89,585.46 197.78,555.00 215.00 M670.00 150.00 C637.50 168.37,605.00 186.74,555.00 215.00 M555.00 215.00 C521.55 196.09,488.09 177.18,440.00 150.00 M555.00 215.00 C520.76 195.65,486.51 176.29,440.00 150.00 M440.00 150.00 C470.11 132.98,500.22 115.97,555.00 85.00 M440.00 150.00 C481.49 126.55,522.97 103.10,555.00 85.00" stroke="#355579" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="555.00" y="146.50" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="555.00" dy="0">성질을 모두</tspan><tspan x="555.00" dy="17.5">지키나?</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M390.00 150.00 C409.83 150.00,429.65 150.00,440.00 150.00 M390.00 150.00 C405.28 150.00,420.56 150.00,440.00 150.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M427.01 157.50 L440.00 150.00 L427.01 142.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M730.00 120.00 L890.00 120.00 L890.00 180.00 L730.00 180.00" stroke="none" fill="#ffffff" />
+<path d="M730.00 120.00 C793.44 120.00,856.88 120.00,890.00 120.00 M730.00 120.00 C782.32 120.00,834.64 120.00,890.00 120.00 M890.00 120.00 C890.00 133.20,890.00 146.41,890.00 180.00 M890.00 120.00 C890.00 137.27,890.00 154.53,890.00 180.00 M890.00 180.00 C835.93 180.00,781.86 180.00,730.00 180.00 M890.00 180.00 C853.92 180.00,817.84 180.00,730.00 180.00 M730.00 180.00 C730.00 160.67,730.00 141.33,730.00 120.00 M730.00 180.00 C730.00 164.88,730.00 149.75,730.00 120.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="810.00" y="155.63" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="15" fill="#1b1b1b" text-anchor="middle"><tspan x="810.00" dy="0">다음 반복</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M670.00 150.00 C693.79 150.00,717.58 150.00,730.00 150.00 M670.00 150.00 C692.18 150.00,714.36 150.00,730.00 150.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M717.01 157.50 L730.00 150.00 L717.01 142.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="682.00" y="138.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12" fill="#555555" text-anchor="start"><tspan x="682.00" dy="0">예</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M810.00 120.00 C810.00 92.24,810.00 64.49,810.00 50.00 M810.00 120.00 C810.00 105.13,810.00 90.26,810.00 50.00 M810.00 50.00 C662.06 50.00,514.12 50.00,300.00 50.00 M810.00 50.00 C625.70 50.00,441.40 50.00,300.00 50.00 M300.00 50.00 C300.00 64.04,300.00 78.09,300.00 120.00 M300.00 50.00 C300.00 73.04,300.00 96.08,300.00 120.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 8" />
+<path d="M292.50 107.01 L300.00 120.00 L307.50 107.01 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="555.00" y="41.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="middle"><tspan x="555.00" dy="0">반복 번호 + 1</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M555.00 215.00 C555.00 248.71,555.00 282.41,555.00 300.00 M555.00 215.00 C555.00 236.68,555.00 258.37,555.00 300.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M547.50 287.01 L555.00 300.00 L562.50 287.01 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="565.00" y="257.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="12" fill="#555555" text-anchor="start"><tspan x="565.00" dy="0">아니오</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M465.00 300.00 L645.00 300.00 L645.00 360.00 L465.00 360.00" stroke="none" fill="#ffffff" />
+<path d="M465.00 300.00 C536.38 300.00,607.76 300.00,645.00 300.00 M465.00 300.00 C518.61 300.00,572.21 300.00,645.00 300.00 M645.00 300.00 C645.00 321.61,645.00 343.21,645.00 360.00 M645.00 300.00 C645.00 314.10,645.00 328.19,645.00 360.00 M645.00 360.00 C597.61 360.00,550.21 360.00,465.00 360.00 M645.00 360.00 C603.10 360.00,561.19 360.00,465.00 360.00 M465.00 360.00 C465.00 347.00,465.00 334.00,465.00 300.00 M465.00 360.00 C465.00 338.27,465.00 316.54,465.00 300.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="555.00" y="335.63" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="15" fill="#1b1b1b" text-anchor="middle"><tspan x="555.00" dy="0">자동 최소화</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M705.00 300.00 L925.00 300.00 L925.00 360.00 L705.00 360.00" stroke="none" fill="#ffffff" />
+<path d="M705.00 300.00 C792.24 300.00,879.49 300.00,925.00 300.00 M705.00 300.00 C779.91 300.00,854.83 300.00,925.00 300.00 M925.00 300.00 C925.00 323.71,925.00 347.41,925.00 360.00 M925.00 300.00 C925.00 322.30,925.00 344.61,925.00 360.00 M925.00 360.00 C860.18 360.00,795.36 360.00,705.00 360.00 M925.00 360.00 C840.38 360.00,755.76 360.00,705.00 360.00 M705.00 360.00 C705.00 336.58,705.00 313.16,705.00 300.00 M705.00 360.00 C705.00 342.62,705.00 325.23,705.00 300.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="815.00" y="326.50" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="815.00" dy="0">회귀 테스트 입력으로</tspan><tspan x="815.00" dy="17.5">저장</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M985.00 300.00 L1185.00 300.00 L1185.00 360.00 L985.00 360.00" stroke="none" fill="#ffffff" />
+<path d="M985.00 300.00 C1064.31 300.00,1143.63 300.00,1185.00 300.00 M985.00 300.00 C1061.64 300.00,1138.29 300.00,1185.00 300.00 M1185.00 300.00 C1185.00 313.81,1185.00 327.61,1185.00 360.00 M1185.00 300.00 C1185.00 318.51,1185.00 337.02,1185.00 360.00 M1185.00 360.00 C1119.80 360.00,1054.60 360.00,985.00 360.00 M1185.00 360.00 C1117.71 360.00,1050.42 360.00,985.00 360.00 M985.00 360.00 C985.00 338.16,985.00 316.33,985.00 300.00 M985.00 360.00 C985.00 346.97,985.00 333.93,985.00 300.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="1085.00" y="326.50" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="14" fill="#1b1b1b" text-anchor="middle"><tspan x="1085.00" dy="0">커밋마다 CI에서</tspan><tspan x="1085.00" dy="17.5">다시 검사</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M645.00 330.00 C668.79 330.00,692.59 330.00,705.00 330.00 M645.00 330.00 C658.56 330.00,672.11 330.00,705.00 330.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M692.01 337.50 L705.00 330.00 L692.01 322.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<path d="M925.00 330.00 C948.79 330.00,972.59 330.00,985.00 330.00 M925.00 330.00 C939.84 330.00,954.67 330.00,985.00 330.00" stroke="#5f5f5f" stroke-width="1.2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M972.01 337.50 L985.00 330.00 L972.01 322.50 Z" stroke="#5f5f5f" stroke-width="1.2" fill="#5f5f5f" stroke-linecap="round" stroke-linejoin="round" />
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="40.00" y="413.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="start"><tspan x="40.00" dy="0">성질 예: 무크래시 · 시간 상한 · 왕복 동일 · 상한 준수</tspan></text>
+</g>
+<g transform="translate(0.00,12.00)">
+<text x="40.00" y="439.00" font-family="Helvetica, Arial, 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', sans-serif" font-size="13" fill="#555555" text-anchor="start"><tspan x="40.00" dy="0">시드 + 반복 번호 = 같은 입력 재현</tspan></text>
+</g>
+</svg>

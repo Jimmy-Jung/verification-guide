@@ -1,0 +1,30 @@
+{
+  "name": "verification-guide",
+  "version": "0.1.0",
+  "description": "오류·성능·보안·유지보수 네 질문으로 소프트웨어 검증을 계획·실행·해석·보고한다.",
+  "author": {
+    "name": "JunyoungJung",
+    "email": "joony300@gmail.com",
+    "url": "https://github.com/Jimmy-Jung"
+  },
+  "homepage": "https://github.com/Jimmy-Jung/verification-guide",
+  "repository": "https://github.com/Jimmy-Jung/verification-guide",
+  "license": "MIT",
+  "keywords": ["verification", "testing", "fuzzing", "performance", "security", "ios", "android", "codex", "claude"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "검증 가이드",
+    "shortDescription": "네 질문(오류·성능·보안·유지보수)으로 검증을 계획·실행·해석·보고한다.",
+    "longDescription": "검증 가이드은 검증 작업을 계획·실행·해석·보고 네 단계로 나누고, 단계마다 읽을 지침과 양식을 제공한다. 공용 입력 코퍼스와 해시 대조, 두 구현의 차등 테스트, 시드 고정 속성 퍼즈, 병리 입력, 실기기 Release 반복 측정과 외부 판정선, 위협 모델과 공격 입력 동적 검증, 정적 분석·의존성 감사·SBOM·새니타이저, 커버리지·복잡도·CI 게이트, 결함 대장과 보고서 수치 파이프라인을 다룬다. 숫자를 읽는 원칙(중앙값과 범위, 0건의 범위, 외부 기준과 내부 회귀선)과 실측에서 드러난 측정 함정을 함께 둔다.",
+    "developerName": "JunyoungJung",
+    "category": "Productivity",
+    "capabilities": ["Verification planning", "Measurement interpretation", "Defect ledger", "Verification report"],
+    "websiteURL": "https://github.com/Jimmy-Jung/verification-guide",
+    "defaultPrompt": [
+      "이 라이브러리의 검증 계획을 네 질문(오류·성능·보안·유지보수) 기준으로 세워줘.",
+      "이 측정 결과(hitch 12 ms/s, 1회 측정)를 어떻게 읽어야 해?",
+      "semgrep 0건이면 보안이 안전하다고 보고서에 써도 돼?"
+    ],
+    "brandColor": "#1E3A8A"
+  }
+}

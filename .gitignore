@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+evals/results/
+evals/**/.replay/
+
+# 비밀·로컬 산출물
+.env
+.env.*
+*.pem
+*.key
+.venv/
+.idea/
+.vscode/
+*.xcresult/
+results.json

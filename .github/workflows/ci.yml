@@ -1,0 +1,65 @@
+# Author: JunyoungJung
+# Date: 2026-10-22
+# 액션은 버전 태그 대신 커밋 SHA로 고정한다(공급망 고정, references/security.md).
+name: CI
+
+permissions:
+  contents: read
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      run_evals:
+        description: "claude plugin eval 실행 (모델 호출 비용 발생)"
+        type: boolean
+        default: false
+
+jobs:
+  validate:
+    name: pytest · plugin validate
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.12"
+      - name: pytest (스크립트 self-test · 매니페스트/문서 일관성)
+        run: |
+          python -m pip install --quiet pytest
+          python -B -m pytest
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: "22"
+      - name: claude plugin validate --strict
+        run: |
+          npm install -g @anthropic-ai/claude-code@2.1.301  # validate·eval 판정이 버전마다 바뀌지 않게 고정
+          claude plugin validate --strict .
+
+  evals:
+    name: claude plugin eval (수동)
+    if: github.event_name == 'workflow_dispatch' && inputs.run_evals
+    runs-on: ubuntu-latest
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: "22"
+      - name: eval (모델 고정, baseline 포함, 결과 JSON)
+        run: |
+          npm install -g @anthropic-ai/claude-code@2.1.301  # validate·eval 판정이 버전마다 바뀌지 않게 고정
+          claude plugin eval . --trust-plugin --json results.json \
+            --model claude-sonnet-5-5 --judge-model claude-sonnet-5-5 --no-publish
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        if: always()
+        with:
+          name: eval-results
+          path: results.json
